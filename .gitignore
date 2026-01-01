@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# OS junk
+.DS_Store
+Thumbs.db
